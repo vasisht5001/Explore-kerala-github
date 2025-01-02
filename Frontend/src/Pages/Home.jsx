@@ -7,9 +7,9 @@ export default function Home() {
   return (
     <>
       <div className="container-fluid bg-dark hero-section text-center">
-        <h1 className="fs-1 fw-bold text-light">WELCOME TO KOZHIKODE</h1>
+        <h1 className="fs-1 fw-bold text-light">WELCOME TO KERALA - GOD'S OWN COUNTRY</h1>
         <p className="text-light fs-5 mt-3">
-        second-largest metropolitan city in the State of Kerala. It is also the 19th largest in the country with a population of two million
+        “Kerala, a land of lush greenery, serene backwaters, and warm hearts. Happy Kerala Day to all!” “Here's to Kerala, a land where art, tradition, and nature coexist harmoniously.
         </p>
       </div>
 

@@ -26,7 +26,7 @@ export default function Navbar() {
     }
   return (
     <nav className="navbar d-flex justify-content-between   align-items-center p-3">
-      <Link to={'/'}><h1 className="mx-5 text-white fs-2 fw-bold">Kozhikode</h1></Link>
+      <Link to={'/'}><h1 className="app-name  mx-5 text-white fs-2 fw-bold ">Explore Kerala</h1></Link>
       <div className="d-flex align-items-center">
         {!user ? <Link to={'/login'}><button className="btn_sign mx-3">Sign in</button></Link> : (
             <div className="dropdown">

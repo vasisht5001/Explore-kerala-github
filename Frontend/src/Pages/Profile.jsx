@@ -126,6 +126,10 @@
 
 
 
+
+
+// By using below code when the admin update his/her profile he/she must signout and signin again to use admin features 
+
 import React, { useEffect, useState } from 'react';
 import { FaUser, FaLock, FaCamera } from 'react-icons/fa';
 import { useDispatch, useSelector } from 'react-redux';
