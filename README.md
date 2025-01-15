@@ -1,0 +1,49 @@
+frontend
+
+
+
+npm install
+
+
+
+npm run dev
+
+
+
+backend
+
+
+
+.env
+
+
+
+PORT=5000
+
+
+
+MONGDB_ULR="YOUR MONGODB URL"
+
+
+
+JWT_SECRET= "YOUR SECRET KEY"
+
+
+
+CLOUDINARY_CLOUD_NAME='YOUR CLOUDINARY_CLOUD_NAME'
+
+
+
+CLOUDINARY_API_KEY='YOUR CLOUDINARY_API_KEY '
+
+
+
+CLOUDINARY_API_SECRET='YOUR CLOUDINARY_API_SECRET '
+
+
+
+npm install
+
+
+
+npm run dev
